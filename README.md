@@ -81,15 +81,14 @@ xor(y6,a,b);
 xnor(y7,a,b);
 endmodule
 ```
- 
-**Logic symbol & Truthtable**
 
 **RTL realization Output:** 
 ![image](https://github.com/user-attachments/assets/eee85570-026d-4e0a-b2a6-0698a3070e51)
 
-
-**RTL**
+![image](https://github.com/user-attachments/assets/a9309c17-aa74-4207-b8a5-27d45b79ff3f)
+**RTL
 
 **Result:**
+Result: Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
