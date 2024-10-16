@@ -68,7 +68,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 Developed by: Sana Fathima H
 RegisterNumber: 212223240145
-
+```
+```
 module lg(x,y,z1,z2,z3,z4,z5,z6,z7);
 input x,y;
 output z1,z2,z3,z4,z5,z6,z7;
