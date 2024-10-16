@@ -87,7 +87,7 @@ Logic symbol & Truthtable
 
 ![image](https://github.com/user-attachments/assets/f8357451-67b0-496c-8b5e-e46393d86138)
 
-**RTL realization Output:** 
+**RTL realization** 
 ![image](https://github.com/user-attachments/assets/82cb1b3e-d3cb-4bac-8984-0b410a557a32)
 
 **OUTPUT**
