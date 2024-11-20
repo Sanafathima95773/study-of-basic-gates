@@ -70,16 +70,16 @@ Developed by: Sana Fathima H
 RegisterNumber: 212223240145
 ```
 ```
-module lg(x,y,z1,z2,z3,z4,z5,z6,z7);
-input x,y;
-output z1,z2,z3,z4,z5,z6,z7;
-and g1(z1,x,y);
-or g2(z2,x,y);
-not g3(z3,x);
-nand g4(z4,x,y);
-nor g5(z5,x,y);
-xor g6(z6,x,y);
-xnor g7(z7,x,y);
+module exp_01(a,b,c1,c2,c3,c4,c5,c6,c7);
+input a,b;
+output c1,c2,c3,c4,c5,c6,c7;
+and g1(c1,a,b);
+or g2(c2,a,b);
+not g3(c3,a);
+nand g4(c4,a,b);
+nor g5(c5,a,b);
+xor g6(c6,a,b);
+xnor g7(c7,a,b);
 endmodule
 
 ```
@@ -88,13 +88,15 @@ Logic symbol & Truthtable
 ![image](https://github.com/user-attachments/assets/f8357451-67b0-496c-8b5e-e46393d86138)
 
 **RTL realization** 
-![image](https://github.com/user-attachments/assets/82cb1b3e-d3cb-4bac-8984-0b410a557a32)
+![image](https://github.com/user-attachments/assets/c281efe4-f0d2-4217-9620-8608acd745e4)
+
 
 **OUTPUT**
-![image](https://github.com/user-attachments/assets/c54e1993-9b3d-4803-9ed0-6317c413d033)
+![image](https://github.com/user-attachments/assets/459509cf-88b7-4e48-b726-253d880f401a)
+
 
 
 **Result:**
-Result: Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
 
